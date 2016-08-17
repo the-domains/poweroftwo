@@ -1,7 +1,7 @@
 name: poweroftwo
 favicon: null
-layout_spectrum: 0.5880243463907391
-typography_spectrum: 0.04540107189677656
+layout_spectrum: 0.60007
+typography_spectrum: 0.39459
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.6317879676353186
+  brandStrength: 0.6875
   lightness: 0.9139834851957858
-  saturation: 0.06998268142342567
+  saturation: 0.0625
   rhythmicContrast: 0.9332868887577206
 purpose: []
