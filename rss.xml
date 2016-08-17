@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Digital Marketing Gurus]]></title>
+        <description><![CDATA[Digital Marketing Gurus]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 02:52:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Right People, Right Content, Right Time: Trigger-Based Nurturing Really Delivers]]></title>
+            <description><![CDATA[<article><h1>Right People, Right Content, Right Time: Trigger-Based Nurturing Really Delivers</h1><p>Marketing automation offers a lot of functionality that many marketers aren't using to the fullest. One great example is how you can tie together classic inbound marketing techniques with activity tracking and lead scoring to drive very targeted trigger-based nurtures. Let me give you an example of a trigger-based nurture I created with a previous client that was extremely successful.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/071e1943ef7ec7f2c91fef9da788ab51/noop.jpg?input=http%3A%2F%2Fwww.demandgen.com%2Fwp-content%2Fuploads%2F2015%2F06%2FJohn_Blog_Post.jpg"></article>]]></description>
+            <link>http://www.demandgen.com/right-people-right-content-right-time-trigger-based-nurturing-really-delivers/</link>
+            <guid isPermaLink="false">70704beb-3038-401d-97c4-08700aabcb69</guid>
+            <pubDate>Wed, 17 Aug 2016 02:52:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
